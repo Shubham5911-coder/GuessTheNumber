@@ -1,6 +1,6 @@
 package Internship;
 
-import java.util.Scanner;
+import java.util.Scanne
 
 class BankAccount {
     private double balance;
